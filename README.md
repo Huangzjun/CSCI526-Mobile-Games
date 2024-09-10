@@ -118,4 +118,4 @@ void Update () {
 transform.Rotate(Vector3.forward, propellorSpeed * Time.deltaTime);
 }
 
-© Unity 2022 Challenge 1    Plane Programming.
+© Unity  Challenge 1    Plane Programming.
