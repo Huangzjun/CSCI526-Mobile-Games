@@ -1,6 +1,25 @@
 This repository is a collection of tutorials from https://learn.unity.com/course/create-with-code
 
 game url: https://play.unity.com/en/games/e6b9a24a-ff60-4a2c-a2d4-0a621428581b/car-drive
+
+# Car Game
+In this simple driving game, the player controls a car using basic movement controls. The goal is to navigate the car without hitting any obstacles. If the car crashes into an obstacle, the game is over, and the player must restart.
+
+#### Gameplay Details:
+
+1. **Controls**:
+   - **Move Forward/Backward**: Use the **up/down arrow keys** or **W/S keys** to accelerate or decelerate the car.
+   - **Turn Left/Right**: Use the **left/right arrow keys** or **A/D keys** to steer the car.
+2. **Objective**:
+   - The player must avoid obstacles while driving the car.
+   - The longer the player can avoid obstacles, the better their performance.
+3. **Game Over Condition**:
+   - If the car **collides** with any obstacle, the game ends, and the player will need to **restart** from the beginning.
+4. **Restart**:
+   - After crashing, the player will be prompted to restart the game and try again.
+
+This gameplay provides a simple but engaging challenge, testing the player's reflexes and driving skills as they try to avoid obstacles and maintain control of the car.
+
 # Challenge 1 Plane Programming
 ## Summary
 ## Challenge Overview: 
